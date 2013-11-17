@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'pry'
 gem 'omniauth-twitter'
 gem 'twitter', :git => 'https://github.com/sferik/twitter.git'
+gem 'rspec-rails'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
